@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RAJAGOPAL-SADHASIVAM
 - 👀 I’m interested in Groundwater 
 - 🌱 I’m currently learning  Ph.D
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Peoplw working on groundwater
 - 📫 How to reach me ...ce20d087@smail.iitm.ac.in
 
 <!---
